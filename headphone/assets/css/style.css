@@ -1,0 +1,102 @@
+.body{
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+  
+  
+  .sliderbg{
+    background-image: url('../images/sample1.jpg');
+    height: 600px;
+    
+}
+.top-leftt {
+    position: relative;
+    height: 100px;
+    top:100px;
+    left: 30px;
+    
+    }
+    .dropbtn {
+      background-image: url('.assests/images/drpdown.jpg');
+    
+      padding: 5px;
+      font-size: 16px;
+      
+      cursor: pointer;
+    }
+
+    .sliderbg1{
+      position: relative;
+      text-align:center ;
+    
+      background-color: rgba(247, 182, 20);
+    }
+    .center1{
+        position: absolute;
+        top: 50%;
+        width: 50%;
+        
+    }
+    .sliderbg2{
+      
+        background-color: rgb(247, 182, 20);
+        
+    
+  }
+  .headbut{
+    border: blueviolet;
+    position:absolute;
+    padding-top: 20%;
+    left: 10%;
+    top: 10px;
+    
+  }
+  .txt1{
+    position: relative;
+    color: rgb(247, 182, 20);
+  }
+  .txt2{
+    position: absolute;
+    top: 14px;
+    color: black;
+  }
+  .map{
+    background-image: url('../images/map2.png');
+    height: 300px;
+  
+  }
+  .sliderbg3{
+    background-image: url('../images/sample1.jpg');
+    height: 70px;
+    width: 30%;
+}
+.round1 {
+  border: 2x solid rgb(247,182,20);
+  border-radius: 35px;
+  background-color: rgb(247, 182, 20);
+  padding: 5px;
+}
+.round2 {
+  border: 2px solid rgb(252, 251, 251);
+  border-radius: 35px;
+  background-color: rgb(252, 251, 250);
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.roundi{
+  border-radius: 50%;
+  border: 40PX;
+  padding: 5px;
+  background-color: rgb(247, 182, 20);
+  width: 30px;
+  height: 30px;
+  text-align: center;
+
+}
+.customm{
+  background-color: rgb(238, 189, 125);
+
+}
+.navbar{
+  background-color: rgb(223, 193, 75);
+}
